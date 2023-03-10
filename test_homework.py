@@ -1,5 +1,4 @@
 from datetime import time
-import inspect
 
 
 def test_dark_theme():
